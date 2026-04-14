@@ -8,17 +8,17 @@ The ethos is simple: if a machine is broken, whether it's a hospital workflow, a
 ## Clinical Utilities
 These tools are designed to work offline, ensuring they remain reliable in the depths of a hospital ward where wifi and cellular signal can't penetrate.
 
-* **[CotMatch](https://fixourmachine.github.io/cotmatch/)**: A cot-locating tool for matching babies to neonatal units across the UK that meet their needs closest to home, with integrated directory of direct ward phone numbers and each NNU's capablities. 
-* **[Y-Sight](https://fixourmachine.github.io/y-sight/)**: A rapid screening tool for checking the compatibility of NICU infusions at the Y-site. Designed for when you have reached the hard limit of available line lumens in a sick micropremmie with difficult access and need to rationalise and sequence drug delivery.
-* **[EOScalc](https://fixourmachine.github.io/eoscalc/)**: An offline implementation of the 2017 Neonatal Early-Onset Sepsis Calculator, facilitating bedside risk assessment without the need for a stable connection or reliance on transatlantic relations staying sweet.
-* **[Biligram](https://fixourmachine.github.io/biligram/)**: A focused utility for charting and interpreting neonatal bilirubin levels to manage jaundice and compare recommendations between the UK and USA guidelines. 
+* **[🏥 CotMatch](https://fixourmachine.github.io/cotmatch/)**: A cot-locating tool for matching babies to neonatal units across the UK that meet their needs closest to home, with integrated directory of direct ward phone numbers and each NNU's capablities. 
+* **[🖇️ Y-Sight](https://fixourmachine.github.io/y-sight/)**: A rapid screening tool for checking the compatibility of NICU infusions at the Y-site. Designed for when you have reached the hard limit of available line lumens in a sick micropremmie with difficult access and need to rationalise and sequence drug delivery.
+* **[🦠 EOScalc](https://fixourmachine.github.io/eoscalc/)**: An offline implementation of the 2017 Neonatal Early-Onset Sepsis Calculator, facilitating bedside risk assessment without the need for a stable connection or reliance on transatlantic relations staying sweet.
+* **[🌞 Biligram](https://fixourmachine.github.io/biligram/)**: A focused utility for charting and interpreting neonatal bilirubin levels to manage jaundice and compare recommendations between the UK and USA guidelines. 
 
 
 ## Life & Logic
 Outside the NICU, I build things to handle the distractions of the world and the complexities of being a human in London.
 
-* **[LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
-* **[Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
+* **[📏 LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
+* **[🎡 Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
 
 ---
 
