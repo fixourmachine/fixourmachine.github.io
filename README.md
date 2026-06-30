@@ -8,7 +8,7 @@ The ethos is simple: if a machine is broken, whether it's a hospital workflow, a
 ## Clinical Utilities
 These tools are designed to work offline, ensuring they remain reliable in the depths of a hospital ward where wifi and cellular signal can't penetrate.
 
-* **[🏥 CotMatch](https://fixourmachine.github.io/cotmatch/)**: A cot-locating tool for matching babies to neonatal units across the UK that meet their needs closest to home, with integrated directory of direct ward phone numbers and each NNU's capablities. Filter units by level of care, gestation, weight, geography, ODN, transport team, and specialist capabilities, with direct neonatal unit phone numbers and proximity sorting.
+* **[🏥 CotMatch](https://fixourmachine.github.io/cotmatch/)**: A cot-locating tool for matching babies to neonatal units across the UK that meet their needs closest to home, with integrated directory of direct ward phone numbers and each NNU's capablities. 
 * **[🖇️ Y-Sight](https://fixourmachine.github.io/y-sight/)**: A rapid screening tool for checking the compatibility of NICU infusions at the Y-site. Designed for when you have reached the hard limit of available line lumens in a sick micropremmie with difficult access and need to rationalise and sequence drug delivery.
 * **[🦠 EOScalc](https://fixourmachine.github.io/eoscalc/)**: An offline implementation of the 2017 Neonatal Early-Onset Sepsis Calculator, facilitating bedside risk assessment without the need for a stable connection or reliance on transatlantic relations staying sweet.
 * **[🌞 Biligram](https://fixourmachine.github.io/biligram/)**: A focused utility for charting and interpreting neonatal bilirubin levels to manage jaundice and compare recommendations between the UK and USA guidelines.
