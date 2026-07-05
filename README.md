@@ -19,7 +19,7 @@ These tools are designed to work offline, ensuring they remain reliable in the d
 
 
 ## Life & Logic
-Outside the NICU, I build things to handle the distractions of the world and the complexities of being a human in London.
+Outside the NICU, I build things to handle the distractions of the world and the complexities of being a human.
 
 * **[📏 LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
 * **[🎡 Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
