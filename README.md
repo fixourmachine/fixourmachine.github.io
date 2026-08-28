@@ -8,6 +8,7 @@ The ethos is simple: if a machine is broken, whether it's a hospital workflow, a
 ## Clinical Utilities
 These tools are designed to work offline, ensuring they remain reliable in the depths of a hospital ward where wifi and cellular signal can't penetrate.
 
+* **[🫶 Extreme Preterm Risk Conversation](https://fixourmachine.github.io/preterm-risk/)**: A clinician-operated visual aid for counselling at 22+0 to 26+6 weeks, presenting BAPM population outcomes, a qualitative risk profile, and PERIPrem-aligned optimisation scenarios. It is not an individual outcome calculator.
 * **[🏥 CotMatch](https://fixourmachine.github.io/cotmatch/)**: A cot-locating tool for matching babies to neonatal units across the UK that meet their needs closest to home, with integrated directory of direct ward phone numbers and each NNU's capablities. 
 * **[🖇️ Y-Sight](https://fixourmachine.github.io/y-sight/)**: A rapid screening tool for checking the compatibility of NICU infusions at the Y-site. Designed for when you have reached the hard limit of available line lumens in a sick micropremmie with difficult access and need to rationalise and sequence drug delivery.
 * **[🦠 EOScalc](https://fixourmachine.github.io/eoscalc/)**: An offline implementation of the 2017 Neonatal Early-Onset Sepsis Calculator, facilitating bedside risk assessment without the need for a stable connection or reliance on transatlantic relations staying sweet.
@@ -21,6 +22,7 @@ These tools are designed to work offline, ensuring they remain reliable in the d
 ## Life & Logic
 Outside the NICU, I build things to handle the distractions of the world and the complexities of being a human.
 
+* **[🧭 Milestone Map](https://fixourmachine.github.io/growingalong/)**: A private, offline-first prototype for recording a child’s developmental milestones across seven domains. Data stays in the browser, and the tool is for exploration rather than diagnosis or validated developmental screening.
 * **[📏 LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
 * **[🎡 Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
 * **[💷 Offers Directory](https://fixourmachine.github.io/offersdirectory/)**: Searchable, offline-capable directory of NHS and healthcare staff discounts, ordering thousands of offers from multiple discount programmes into one faster and less maddening interface.
