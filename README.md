@@ -26,6 +26,7 @@ Outside the NICU, I build things to handle the distractions of the world and the
 * **[📏 LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
 * **[🎡 Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
 * **[💷 Offers Directory](https://fixourmachine.github.io/offersdirectory/)**: Searchable, offline-capable directory of NHS and healthcare staff discounts, ordering thousands of offers from multiple discount programmes into one faster and less maddening interface.
+* **[🍽️ Hygiene Check](https://fixourmachine.github.io/foodsafety/)**: Look up official UK food hygiene ratings by business name or postcode, or use your location to find nearby places.
 
 ---
 
