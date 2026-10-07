@@ -24,9 +24,10 @@ Outside the NICU, I build things to handle the distractions of the world and the
 
 * **[🧭 Milestone Map](https://fixourmachine.github.io/growingalong/)**: A private, offline-first prototype for recording a child’s developmental milestones across seven domains. Data stays in the browser, and the tool is for exploration rather than diagnosis or validated developmental screening.
 * **[📏 LinearClock](https://fixourmachine.github.io/linearclock/)**: A 24-hour linear representation of time, built specifically for those of us with ADHD or time-blindness who find the traditional clock face a poor fit for the shape of a day.
-* **[🎡 Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
+* **[🎡 The Ledger](https://fixourmachine.github.io/ledger/)**: A Grandparent’s Guide to Kids’ Days Out in London. This is a curated effort to make the city manageable for the older generation taking the younger one on an adventure.
 * **[💷 Offers Directory](https://fixourmachine.github.io/offersdirectory/)**: Searchable, offline-capable directory of NHS and healthcare staff discounts, ordering thousands of offers from multiple discount programmes into one faster and less maddening interface.
 * **[🍽️ Hygiene Check](https://fixourmachine.github.io/foodsafety/)**: Look up official UK food hygiene ratings by business name or postcode, or use your location to find nearby places.
+* **[🥤 ORS Recipes](https://fixourmachine.github.io/ORS-recipe/)**: An offline-ready calculator for scaling oral rehydration solution recipes from 50 mL to 5 L, with ingredient substitutions, composition in mmol/L, printable instructions and shareable recipe links.
 
 ---
 
